@@ -1,9 +1,10 @@
 ---
+description: Preface
 cover: .gitbook/assets/wallpaper_1920x1080_x4_foundations.jpg
 coverY: -161.37023186237846
 ---
 
-# 简介
+# 前言
 
 ## 关于《X百科全书》
 
@@ -30,5 +31,8 @@ _X Universe_当中出现的所有故事都源自于一系列交织在一起的�
 _Telge T. Kautz_\
 _2010年7月_
 
-## 第二版译者序
+## 第三版译者序
 
+2008年，我将手头一台三星R700从Windows XP升级到了Windows Vista，这次升级无心插柳地造成了一个问题：当时我非常热衷的_Homeworld_运行不起来了。抱着重返太空的愿望，我瞥见了一个名叫_X3 Reunion_的游戏，于是跳了进去，于是在这个巨坑里呆到了现在——从_X3 Reunion，_到_X3 Terran Conflict_再到_Albion Prelude、_和争议巨大的_X Rebirth，_以及现在的_X4 Foundations_。这个游戏陪伴我走过了十几年了时间了。
+
+《X百科全书》的第一版中文翻译完成于2011年的最后一天。
