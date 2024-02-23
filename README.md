@@ -1,6 +1,6 @@
 ---
 description: Preface
-cover: .gitbook/assets/wallpaper_1920x1080_x4_foundations.jpg
+cover: .gitbook/assets/X4 Wallpaper.jpg
 coverY: -161.37023186237846
 ---
 
