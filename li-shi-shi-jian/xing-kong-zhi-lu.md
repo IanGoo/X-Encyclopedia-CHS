@@ -10,13 +10,19 @@ description: The Way to the Stars
 
 1969年，尼尔·阿姆斯特朗[^1]和埃德温·“巴兹”·奥尔德林[^2]率先在地球以外的星球上留下了自己的足迹。当他们站在月球表面的时候，他们上空被称为“哥伦比亚”的指令舱里，迈克尔·柯林斯[^3]正在安全的距离观察着他的同事们。
 
-<figure><img src="../.gitbook/assets/gpn-2001-000014.webp" alt=""><figcaption><p>阿姆斯特朗在月球表面留下的第一个脚印</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gpn-2001-000014.webp" alt=""><figcaption><p>阿姆斯特朗在月球表面留下的第一个脚印（图像来自NASA）</p></figcaption></figure>
 
 1982年，人类开始定期发射航天飞机，航天飞行成为一种常态化的活动。然而，人类在两次灾难性的事故中损失了两架航天飞机。分别是1986年的挑战者号[^4]和2003年的哥伦比亚号[^5]。这两次事故也是对航天飞行的危险性的尖锐提醒。
 
-<figure><img src="../.gitbook/assets/Challenger Accident.avif" alt=""><figcaption><p>挑战者号航天飞机事故</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Challenger Accident.avif" alt=""><figcaption><p>挑战者号航天飞机事故（图像来自NASA）</p></figcaption></figure>
 
 国际空间站——有史以来最复杂、最昂贵的人造工程、人类太空探索皇冠上的明珠——甚至在2020年前就被除役，甚至没有到她的设计寿命[^6]。
+
+<figure><img src="../.gitbook/assets/iss056e201248_large.jpg" alt=""><figcaption><p>国际空间站（图像来自NASA）</p></figcaption></figure>
+
+## 全球经济危机的结束
+
+在影响深远的全球经济危机[^7]期间，航天活动的巨大耗资与
 
 [^1]: Neil Armstrong（1930.8.5-2012.8.25，享年82岁），美国海军飞行员、试飞员、宇航员、教授。1969年作为指令长搭成阿波罗11号登上月球，成为第一个踏上月面的人类。
 
@@ -31,3 +37,5 @@ description: The Way to the Stars
     哥伦比亚号是美国最早服役的航天飞机。2003年2月1日返航时解体。事故原因是发射时燃料箱的隔热泡沫脱落，击中左侧机翼前缘隔热板，导致隔热失效。重回大气层时隔热失效引发机体结构失效而导致解体，机上7名宇航员全部遇难。
 
 [^6]: 国际空间站（ISS）1998年立项，2010年建成并投入使用。在现实生活中，直到2024年，ISS仍然在服役当中。但是它有可能在2024年除役，这一进程有可能随着2022年爆发的俄乌冲突、ISS难以使用俄罗斯联盟号飞船进行补给而提前。
+
+[^7]: 此处的“经济危机”有可能暗指2008年的次贷危机。在现实生活中，确实有大量的航天计划在2008年后被终止。
