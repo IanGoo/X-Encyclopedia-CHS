@@ -1,5 +1,7 @@
 ---
 description: The Way to the Stars
+cover: ../.gitbook/assets/iss056e201248_large.jpg
+coverY: 0
 ---
 
 # 星空之路
