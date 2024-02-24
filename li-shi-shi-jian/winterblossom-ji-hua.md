@@ -61,7 +61,7 @@ USCSS Winterblossom返航后的几年，地球上发生了翻天覆地的变化�
 
 第一批被成功改造的行星包括Taurus、Perfect Ⅹ和Sonra Ⅳ。
 
-
+<figure><img src="../.gitbook/assets/Argon Prime.jpeg" alt=""><figcaption><p>Sonra Ⅳ（摄于NT 825年）</p></figcaption></figure>
 
 [^1]: 第一次接触（First Contact）是两种互不知晓的文明的第一次接触。如1492年西班牙人与阿拉瓦人的第一次接触。随着人类文明的全球化进程，现在的“第一次接触”更多地指的是人类与外星文明之间的首次接触。
 
