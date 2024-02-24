@@ -1,6 +1,7 @@
 # Table of contents
 
-* [前言](README.md)
+* [Welcome](README.md)
+* [前言](<README (1).md>)
 
 ## 历史事件
 
