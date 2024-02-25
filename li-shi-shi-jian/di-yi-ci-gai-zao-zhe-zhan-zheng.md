@@ -16,4 +16,6 @@ CE 2099年，大约有12个类地行星被改造者舰队成功改造。此时�
 
 CE 2145年，被遗忘很久的改造者舰队出现在了地球轨道上，但是它们已经发生了变异。地球对此毫无防备，USC的部分飞船中甚至空无一人。随后发生的战争让人类历史上的所有冲突都相形见绌，最终有数十亿人在战争中死去。
 
+<figure><img src="../.gitbook/assets/Terraformer leaving earth.jpg" alt=""><figcaption><p>改造者舰队通过跳跃门离开太阳系（图像来自数据仓库）</p></figcaption></figure>
+
 CE 2146年，**Nathan Ridley Gunne**驾驶USCSS Dragonfyre成功将改造者舰队从地球轨道上引开，随着他们身后地球轨道上的跳跃门被炸毁，第一次改造者战争宣告结束。被蹂躏的地球用了数个世纪才慢慢恢复。

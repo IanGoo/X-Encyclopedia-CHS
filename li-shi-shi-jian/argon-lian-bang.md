@@ -16,4 +16,6 @@ NT 215年，Argon与Xenon的第一次直接冲突爆发了，史称“第一次X
 
 第一次Xenon冲突的影响非常深远。由于和Argon中央政府存在政治分歧，两个星区决定独立：NT 219年，Solara自由邦成立；四年后，在**Christiane Hatikvah**的倡议下，Hatikvah自由联盟[^1]成立。尽管三方存在一些分歧，但是他们还是决定组建一个联邦。NT 241年，关于成立**Argon联邦**的协议签字生效。
 
+<figure><img src="../.gitbook/assets/Argon Federation Formed.jpg" alt=""><figcaption><p>Argon联邦正式成立（图像来自数据仓库）</p></figcaption></figure>
+
 [^1]: _X4 Foundations_将其翻译为“希望之歌自由联盟”。但是译者认为“Hatikvah”这个名字很显然来自Christiane Hatikvah的姓，最好不翻译或者音译。
