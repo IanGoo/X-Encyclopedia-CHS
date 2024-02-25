@@ -12,3 +12,4 @@
 * [Goner](li-shi-shi-jian/goner.md)
 * [Argon联邦](li-shi-shi-jian/argon-lian-bang.md)
 * [行星联合会](li-shi-shi-jian/hang-xing-lian-he-hui.md)
+* [与地球的联系](li-shi-shi-jian/yu-di-qiu-de-lian-xi.md)
