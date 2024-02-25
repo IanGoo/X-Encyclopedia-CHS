@@ -11,3 +11,4 @@
 * [地球之外](li-shi-shi-jian/di-qiu-zhi-wai.md)
 * [Goner](li-shi-shi-jian/goner.md)
 * [Argon联邦](li-shi-shi-jian/argon-lian-bang.md)
+* [行星联合会](li-shi-shi-jian/hang-xing-lian-he-hui.md)
