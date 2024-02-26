@@ -14,3 +14,11 @@
 * [行星联合会](li-shi-shi-jian/hang-xing-lian-he-hui.md)
 * [与地球的联系](li-shi-shi-jian/yu-di-qiu-de-lian-xi.md)
 * [地球人冲突](li-shi-shi-jian/di-qiu-ren-chong-tu.md)
+
+## 改造者与Xenon
+
+* [相关概念](gai-zao-zhe-yu-xenon/xiang-guan-gai-nian.md)
+
+## 科学与技术
+
+* [AI与AGI](ke-xue-yu-ji-shu/ai-yu-agi.md)
