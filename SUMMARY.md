@@ -15,6 +15,7 @@
 * [与地球的联系](li-shi-shi-jian/yu-di-qiu-de-lian-xi.md)
 * [地球人冲突](li-shi-shi-jian/di-qiu-ren-chong-tu.md)
 * [CoP之死](li-shi-shi-jian/cop-zhi-si.md)
+* [跳跃门网络的恢复](li-shi-shi-jian/tiao-yue-men-wang-luo-de-hui-fu.md)
 
 ## 改造者与Xenon
 
