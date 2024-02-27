@@ -28,6 +28,12 @@ Argon联邦海军完全无法和强大的USC正面对抗。于是Argon寻求了B
 
 ## 第二次改造者战争
 
-第二次改造者战争在CE 2946年爆发。一支改造者舰队的无人机在Beryll的控制下来到了太阳系
+第二次改造者战争在CE 2946年爆发。一支改造者舰队的无人机在Beryll的控制下来到了太阳系，并且对内太阳系的金星、火星和地球展开了全面攻击。当时USC主力舰队都在其他星区，召回舰队的动作不够迅速，导致地球毫无防备。
+
+<figure><img src="../.gitbook/assets/Torus.jpg" alt=""><figcaption><p>Torus Æternal被摧毁（图像来自数据仓库）</p></figcaption></figure>
+
+CE2984年2月5日，地球的最后一道防线Torus Æternal被摧毁，大批改造者无人机飞临地球上空。但是在**Jei Nirin**博士、**Tebathimanckatt**将军和**Elena Kho**少校[^2]（后晋升为上校）的合作努力下，改造者舰队最终被摧毁。Elena Kho宁可牺牲生命也要拯救她的家园。
 
 [^1]: AGI，Artificial General Intelligence，人工通用智能。详情参考：[改造者与Xenon/相关概念](../gai-zao-zhe-yu-xenon/xiang-guan-gai-nian.md)、[科学与技术/AI与AGI](../ke-xue-yu-ji-shu/ai-yu-agi.md)。
+
+[^2]: 原文中Elena Kho的军衔为“上尉”，但是Elena在驾驶Getsu Fune出发寻找Kyle Brennan时已经是少校军衔，没有任何资料表明Elena在太阳系军衔降级。另外，从上尉直接擢升到上校有些违反常识，因此译者认为此处是“少校”更加合理。
