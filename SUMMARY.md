@@ -21,6 +21,10 @@
 
 * [相关概念](gai-zao-zhe-yu-xenon/xiang-guan-gai-nian.md)
 
+## 种族介绍
+
+* [Split](zhong-zu-jie-shao/split.md)
+
 ## 科学与技术
 
 * [AI与AGI](ke-xue-yu-ji-shu/ai-yu-agi.md)
