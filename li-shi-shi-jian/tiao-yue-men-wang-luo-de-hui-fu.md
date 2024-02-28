@@ -104,6 +104,26 @@ Yaki在Salvage Spur拥有一个信号放大站，该放大站可以向整个跳�
 
 跳跃门网络中的部分居民无法理解为什么分潮清道夫会将自己置于如此危险的境地之中，但是如果去问分潮清道夫自己的话，他们的答案很简单：他们对Avarice星区的危险已经麻木了，并且这就是他们的生活方式，而他们没有别的地方可以去。
 
+### 寻回Boron王国
+
+NT 812年，漂泊州成立。漂泊州由一群与王国失去联系的Boron组成。虽然他们与Kingdom End失去了所有联系，但是他们仍然不愿意组建自治政府，不过为了生存，它们还是需要组织起来。
+
+漂泊州的最高行政长官是皇家事务长。皇家事务长的首要任务是保证漂泊州的人民安居乐业，并在联系到女王陛下之前尽量维持下辖星区的稳定。皇家事务长由选举产生，负责监督资源分配、组织防务与外交事务。
+
+在漂泊州与Boron王国重新取得联系后，漂泊州立即回归王国统治。
+
+NT 825年前后，约言联盟接到了来自Boron首都Kingdom End的通讯，Kingdom End的Boron科学家正在尝试激活本星区的跳跃门，但是始终没有进展。
+
+此后不久，约言联盟发现位于Heretic's End的跳跃门有异常的活动，于是组织了一支庞大的科考队，聚集于Heretic's End。跳跃门激活后，科考队发现对面是一个贫瘠的星区，但是在其中发现了Boron飞船的残骸。
+
+经过进一步的探索，科考队与本地的Boron——即漂泊州取得了联系。
+
+<figure><img src="../.gitbook/assets/Sanctum of Darkness Jumpgate.webp" alt=""><figcaption><p>ALI科学家打通前往Kingdom End星区的跳跃门</p></figcaption></figure>
+
+在某未知势力和Boron科学家Boso Ta的协助下，科考队得以成功激活Sanctuary of Darkness中的跳跃门，来到了Boron王国，并见到了此时统治Boron王国的统治者Polypheides女王陛下。
+
+重新接入跳跃门网络的Boron王国得以缓解原漂泊州治下星区长期以来的物资短缺的困境，但是Boron王国也立即面临严峻的挑战：一方面是在Sanctuary of Darkness星区中极为猖獗的Kha'ak活动；另一方面则是老对手Split的袭扰。
+
 [^1]: “抑制者”是Split历史上著名的大酋长Ghus t'Gllt设立的社会制度。详情参见[Split种族介绍](../zhong-zu-jie-shao/split.md)。
 
 [^2]: 三位一体圣国能否成立取决于玩家在“撬动世界的杠杆”中的任务选择。但是根据官方Wiki，“正统”结局应该是三位一体圣国统一了整个Paranid。
