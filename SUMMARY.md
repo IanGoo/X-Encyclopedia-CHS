@@ -24,6 +24,7 @@
 * [第二舰队](gai-zao-zhe-yu-xenon/di-er-jian-dui.md)
 * [第三舰队](gai-zao-zhe-yu-xenon/di-san-jian-dui.md)
 * [改造者事件](gai-zao-zhe-yu-xenon/gai-zao-zhe-shi-jian.md)
+* [改造者归来](gai-zao-zhe-yu-xenon/gai-zao-zhe-gui-lai.md)
 * [相关概念](gai-zao-zhe-yu-xenon/xiang-guan-gai-nian.md)
 
 ## 种族介绍
