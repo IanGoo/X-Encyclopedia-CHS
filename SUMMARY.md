@@ -25,6 +25,9 @@
 * [第三舰队](gai-zao-zhe-yu-xenon/di-san-jian-dui.md)
 * [改造者事件](gai-zao-zhe-yu-xenon/gai-zao-zhe-shi-jian.md)
 * [改造者归来](gai-zao-zhe-yu-xenon/gai-zao-zhe-gui-lai.md)
+* [地球之外](gai-zao-zhe-yu-xenon/di-qiu-zhi-wai.md)
+* [从改造者到Xenon](gai-zao-zhe-yu-xenon/cong-gai-zao-zhe-dao-xenon.md)
+* [Xenon](gai-zao-zhe-yu-xenon/xenon.md)
 * [相关概念](gai-zao-zhe-yu-xenon/xiang-guan-gai-nian.md)
 
 ## 种族介绍
