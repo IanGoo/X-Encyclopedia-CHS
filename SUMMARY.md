@@ -28,7 +28,13 @@
 * [地球之外](gai-zao-zhe-yu-xenon/di-qiu-zhi-wai.md)
 * [从改造者到Xenon](gai-zao-zhe-yu-xenon/cong-gai-zao-zhe-dao-xenon.md)
 * [Xenon](gai-zao-zhe-yu-xenon/xenon.md)
+* [Beryll崛起](gai-zao-zhe-yu-xenon/beryll-jue-qi.md)
 * [相关概念](gai-zao-zhe-yu-xenon/xiang-guan-gai-nian.md)
+* [改造者计划人员名单](gai-zao-zhe-yu-xenon/gai-zao-zhe-ji-hua-ren-yuan-ming-dan.md)
+
+## Ancients与Sohnen
+
+* [相关概念](ancients-yu-sohnen/xiang-guan-gai-nian.md)
 
 ## 种族介绍
 
