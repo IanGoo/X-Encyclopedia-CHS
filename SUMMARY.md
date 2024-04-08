@@ -34,7 +34,7 @@
 
 ## Ancients与Sohnen
 
-* [相关概念](ancients-yu-sohnen/xiang-guan-gai-nian.md)
+* [Ancients & Sohnen](ancients-yu-sohnen/ancients-and-sohnen.md)
 
 ## 种族介绍
 
