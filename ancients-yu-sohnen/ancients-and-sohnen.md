@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/X3 Sohnen Basilisk.jpg
+cover: ../.gitbook/assets/R-C.jpg
 coverY: 0
 ---
 
