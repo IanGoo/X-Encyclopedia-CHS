@@ -44,6 +44,10 @@
 
 * [AI与AGI](ke-xue-yu-ji-shu/ai-yu-agi.md)
 
+## 年表
+
+* [年表](nian-biao/nian-biao.md)
+
 ## 附加译注
 
 * [关于“半克反物质驱动信使无人机”的计算](fu-jia-yi-zhu/guan-yu-ban-ke-fan-wu-zhi-qu-dong-xin-shi-wu-ren-ji-de-ji-suan.md)
