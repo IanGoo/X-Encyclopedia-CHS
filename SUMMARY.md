@@ -35,6 +35,9 @@
 ## Ancients与Sohnen
 
 * [Ancients & Sohnen](ancients-yu-sohnen/ancients-and-sohnen.md)
+* [第一种族](ancients-yu-sohnen/di-yi-zhong-zu.md)
+* [Computronium](ancients-yu-sohnen/computronium.md)
+* [存在之云](ancients-yu-sohnen/cun-zai-zhi-yun.md)
 
 ## 种族介绍
 
