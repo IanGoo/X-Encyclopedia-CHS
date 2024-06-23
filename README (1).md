@@ -1,7 +1,7 @@
 ---
 description: Preface
-cover: .gitbook/assets/X4 Wallpaper.jpg
-coverY: -161.37023186237846
+cover: .gitbook/assets/X4-Foundations.jpg
+coverY: -229
 ---
 
 # 前言
