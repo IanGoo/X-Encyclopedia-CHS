@@ -1,7 +1,21 @@
 ---
 description: Preface
 cover: .gitbook/assets/X4-Foundations.jpg
-coverY: -229
+coverY: -797.7856634255795
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 前言
