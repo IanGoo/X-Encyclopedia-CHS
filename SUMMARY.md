@@ -41,6 +41,8 @@
 * [Ancients的目标](ancients-yu-sohnen/ancients-de-mu-biao.md)
 * [星区](ancients-yu-sohnen/xing-qu.md)
 * [跳跃门网络](ancients-yu-sohnen/tiao-yue-men-wang-luo.md)
+* [交互与干预](ancients-yu-sohnen/jiao-hu-yu-gan-yu.md)
+* [Gatekeeper](ancients-yu-sohnen/gatekeeper.md)
 
 ## 种族介绍
 
