@@ -43,6 +43,8 @@
 * [跳跃门网络](ancients-yu-sohnen/tiao-yue-men-wang-luo.md)
 * [交互与干预](ancients-yu-sohnen/jiao-hu-yu-gan-yu.md)
 * [Gatekeeper](ancients-yu-sohnen/gatekeeper.md)
+* [Sohnen](ancients-yu-sohnen/sohnen.md)
+* [外来者](ancients-yu-sohnen/wai-lai-zhe.md)
 
 ## 种族介绍
 
