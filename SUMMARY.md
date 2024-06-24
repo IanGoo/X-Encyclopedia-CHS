@@ -38,6 +38,9 @@
 * [第一种族](ancients-yu-sohnen/di-yi-zhong-zu.md)
 * [Computronium](ancients-yu-sohnen/computronium.md)
 * [存在之云](ancients-yu-sohnen/cun-zai-zhi-yun.md)
+* [Ancients的目标](ancients-yu-sohnen/ancients-de-mu-biao.md)
+* [星区](ancients-yu-sohnen/xing-qu.md)
+* [跳跃门网络](ancients-yu-sohnen/tiao-yue-men-wang-luo.md)
 
 ## 种族介绍
 
