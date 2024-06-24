@@ -45,6 +45,8 @@
 * [Gatekeeper](ancients-yu-sohnen/gatekeeper.md)
 * [Sohnen](ancients-yu-sohnen/sohnen.md)
 * [外来者](ancients-yu-sohnen/wai-lai-zhe.md)
+* [人类](ancients-yu-sohnen/ren-lei.md)
+* [改造者](ancients-yu-sohnen/gai-zao-zhe.md)
 
 ## 种族介绍
 
