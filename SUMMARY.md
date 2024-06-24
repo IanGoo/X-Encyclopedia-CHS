@@ -47,9 +47,12 @@
 * [外来者](ancients-yu-sohnen/wai-lai-zhe.md)
 * [人类](ancients-yu-sohnen/ren-lei.md)
 * [改造者](ancients-yu-sohnen/gai-zao-zhe.md)
+* [防火带](ancients-yu-sohnen/fang-huo-dai.md)
 
 ## 种族介绍
 
+* [简介](zhong-zu-jie-shao/jian-jie.md)
+* [Argon](zhong-zu-jie-shao/argon.md)
 * [Split](zhong-zu-jie-shao/split.md)
 
 ## 科学与技术
