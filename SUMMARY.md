@@ -55,6 +55,7 @@
 * [Argon](zhong-zu-jie-shao/argon.md)
 * [Boron](zhong-zu-jie-shao/boron.md)
 * [Kha'ak](zhong-zu-jie-shao/khaak.md)
+* [Paranid](zhong-zu-jie-shao/paranid.md)
 * [Split](zhong-zu-jie-shao/split.md)
 
 ## 科学与技术
