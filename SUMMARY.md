@@ -53,6 +53,8 @@
 
 * [简介](zhong-zu-jie-shao/jian-jie.md)
 * [Argon](zhong-zu-jie-shao/argon.md)
+* [Boron](zhong-zu-jie-shao/boron.md)
+* [Kha'ak](zhong-zu-jie-shao/khaak.md)
 * [Split](zhong-zu-jie-shao/split.md)
 
 ## 科学与技术
