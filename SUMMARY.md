@@ -57,6 +57,7 @@
 * [Kha'ak](zhong-zu-jie-shao/khaak.md)
 * [Paranid](zhong-zu-jie-shao/paranid.md)
 * [Split](zhong-zu-jie-shao/split.md)
+* [Teladi](zhong-zu-jie-shao/teladi.md)
 
 ## 科学与技术
 
