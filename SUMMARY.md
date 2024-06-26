@@ -58,6 +58,11 @@
 * [Paranid](zhong-zu-jie-shao/paranid.md)
 * [Split](zhong-zu-jie-shao/split.md)
 * [Teladi](zhong-zu-jie-shao/teladi.md)
+* [Wenendra](zhong-zu-jie-shao/wenendra.md)
+
+## 重要历史人物
+
+* [BRENNAN, Kyle William](zhong-yao-li-shi-ren-wu/brennan-kyle-william.md)
 
 ## 科学与技术
 

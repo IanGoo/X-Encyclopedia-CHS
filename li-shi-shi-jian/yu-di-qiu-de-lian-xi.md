@@ -1,6 +1,6 @@
 ---
 description: Contact with Earth
-cover: ../.gitbook/assets/Kyle Brennan.jpg
+cover: ../.gitbook/assets/Kyle Brennan (1).jpg
 coverY: 75.75
 ---
 
@@ -14,7 +14,7 @@ NT 730年，Xenon活动又开始增加。CoP普遍认为这是Xenon在策划一�
 
 NT 742年，Xenon活动达到顶峰。有一件出乎意料的事情发生了。一艘飞船在Teladi境内的Seize Well星区凭空出现。它出现在跳跃门附近，但是奇怪的是这条飞船并未沿着跳跃航线飞行。随后，人们发现这条飞船搭载了一台实验性的跳跃引擎。
 
-<figure><img src="../.gitbook/assets/Kyle Brennan.jpg" alt=""><figcaption><p>Kyle Brennan来到CoP（图像来自数据仓库）</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Kyle Brennan (1).jpg" alt=""><figcaption><p>Kyle Brennan来到CoP（图像来自数据仓库）</p></figcaption></figure>
 
 飞船的驾驶员叫**Kyle William Brennan**。他和这条飞船都来自地球。这是700年来第一个从地球来到CoP的人。不到两周后，另一个地球人——**Elena Kho**少校也来到了CoP，她来到这里寻找她的朋友Kyle Brennan。
 
