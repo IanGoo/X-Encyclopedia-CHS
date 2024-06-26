@@ -63,6 +63,7 @@
 ## 重要历史人物
 
 * [BRENNAN, Kyle William](zhong-yao-li-shi-ren-wu/brennan-kyle-william.md)
+* [GARDNA, Julian](zhong-yao-li-shi-ren-wu/gardna-julian.md)
 
 ## 科学与技术
 
