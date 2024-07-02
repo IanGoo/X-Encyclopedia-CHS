@@ -65,6 +65,13 @@
 * [BRENNAN, Kyle William](zhong-yao-li-shi-ren-wu/brennan-kyle-william.md)
 * [GAFFELT, Noah](zhong-yao-li-shi-ren-wu/gaffelt-noah.md)
 * [GARDNA, Julian](zhong-yao-li-shi-ren-wu/gardna-julian.md)
+* [KHO, Elena Lindisfarne](zhong-yao-li-shi-ren-wu/kho-elena-lindisfarne.md)
+* [KHO, Saya](zhong-yao-li-shi-ren-wu/kho-saya.md)
+* [陈香织](zhong-yao-li-shi-ren-wu/chen-xiang-zhi.md)
+
+## 重要地点
+
+* [Hatikvah自由联盟](zhong-yao-di-dian/hatikvah-zi-you-lian-meng.md)
 
 ## 科学与技术
 
