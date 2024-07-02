@@ -1,6 +1,6 @@
 ---
 description: Goner
-cover: ../.gitbook/assets/Goner Temple.jpg
+cover: ../.gitbook/assets/Goner Temple (1).jpg
 coverY: 222
 ---
 
@@ -28,7 +28,7 @@ Nyana Gunne此时刚刚进入政坛，并没有受到Sandas和他离经叛道的
 
 NT 211年，《真理之书》开始编纂。这是一本历史档案，内容包括文本、图像、视频和数据。《真理之书》的目的是提供所有关于“旧地球”（也被称为“Terra”）的可信信息，包括地外殖民地与地球分隔的初期这段历史时期。该书引用了大量的第一手证据和历史文献。尽管《真理之书》一开始是一个纯粹的学术项目，但是很快她就被人称为“Goner的‘圣经’”。这个称呼流传过于广远，以至于Goner被人们当成了一个宗教团体，并获得了公众的尊重。随着时间的推移，Goner作为“宗教”的角色也渐渐地被默认了下来。
 
-<figure><img src="../.gitbook/assets/Goner Temple.jpg" alt=""><figcaption><p>Goner神庙</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Goner Temple (1).jpg" alt=""><figcaption><p>Goner神庙</p></figcaption></figure>
 
 在接下来的几个世纪中，Goner一直是一个边缘角色。在大多数Argon公民的心中，地球只不过是镜花水月、黄粱一梦。Goner在一个遥远偏僻的宁静星区建立了一所大学，称为“Goner神庙”。Goner们来到神庙之中，继续着平静的史学研究和永无止境的对地球秘密的追寻。
 
