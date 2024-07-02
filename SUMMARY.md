@@ -67,7 +67,9 @@
 * [GARDNA, Julian](zhong-yao-li-shi-ren-wu/gardna-julian.md)
 * [KHO, Elena Lindisfarne](zhong-yao-li-shi-ren-wu/kho-elena-lindisfarne.md)
 * [KHO, Saya](zhong-yao-li-shi-ren-wu/kho-saya.md)
+* [NOPILEOS Ⅳ, Isemados Sibasomos](zhong-yao-li-shi-ren-wu/nopileos-isemados-sibasomos.md)
 * [陈香织](zhong-yao-li-shi-ren-wu/chen-xiang-zhi.md)
+* [SHEPPARD, Mitsuno](zhong-yao-li-shi-ren-wu/sheppard-mitsuno.md)
 
 ## 重要地点
 

@@ -1,6 +1,6 @@
 # KHO, Saya
 
-<figure><img src="../.gitbook/assets/Saya Kho.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Saya Kho.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **KHO, Saya**（NT 750年14日，Argonia市 – CE 2948年，地球Torus Æternal）。商人、冒险家，后加入Argon联邦密勤。
 

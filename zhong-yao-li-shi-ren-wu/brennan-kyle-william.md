@@ -1,6 +1,6 @@
 # BRENNAN, Kyle William
 
-<figure><img src="../.gitbook/assets/Kyle Brennan.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Kyle Brennan.jpg" alt="" width="390"><figcaption></figcaption></figure>
 
 [**BRENNAN, Kyle William**](#user-content-fn-1)[^1]（CE 2873 年 1 月 19 日，地球 新西兰 惠灵顿 - ），前 USC 军官，后来成为 CoP 的一位企业家。
 
