@@ -69,6 +69,10 @@
 * [KHO, Saya](zhong-yao-li-shi-ren-wu/kho-saya.md)
 * [NOPILEOS Ⅳ, Isemados Sibasomos](zhong-yao-li-shi-ren-wu/nopileos-isemados-sibasomos.md)
 * [NORMAN, Siobhan Inja](zhong-yao-li-shi-ren-wu/norman-siobhan-inja.md)
+* [Tebathimanckatt](zhong-yao-li-shi-ren-wu/tebathimanckatt.md)
+* [大谷廉](zhong-yao-li-shi-ren-wu/da-gu-lian.md)
+* [TARREN, Yishasame](zhong-yao-li-shi-ren-wu/tarren-yishasame.md)
+* [BORMAN, Falk "Boots"](zhong-yao-li-shi-ren-wu/borman-falk-boots.md)
 * [陈香织](zhong-yao-li-shi-ren-wu/chen-xiang-zhi.md)
 * [SHEPPARD, Mitsuno](zhong-yao-li-shi-ren-wu/sheppard-mitsuno.md)
 

@@ -26,3 +26,5 @@ Sohnen是一种人造的、机械化的存在，它并不满足传统意义上�
 约5亿年前，Sohnen正式成为Ancients核心种族之一。他们不再仅仅是工具人，而是拥有了和Ancients各种族平等的地位。原先Ancients的“核心种族”是一系列代表着Ancients最初起源的种族，这些种族多数都已经脱离物理宇宙，只有后来加入其中的Sohnen是唯一的例外。
 
 Sohnen可能会长期维持物理存在，直到三大目标的实现。这意味着Sohnen有可能成为全宇宙最后一个维持物理存在的生命形式。
+
+<figure><img src="../.gitbook/assets/Sohnen in Facility.jpg" alt=""><figcaption><p>CE 2042年位于计算设施内的Sohnen个体</p></figcaption></figure>

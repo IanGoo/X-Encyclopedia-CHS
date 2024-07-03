@@ -1,6 +1,6 @@
 # NORMAN, Siobhan Inja
 
-NORMAN, Siobhan Inja（NT 658年76日，Argon Prime - ），Argon科学家，以极长的寿命而著称。
+**NORMAN, Siobhan Inja**（NT 658年76日，Argon Prime - ），Argon科学家，以极长的寿命而著称。
 
 ## 生平
 

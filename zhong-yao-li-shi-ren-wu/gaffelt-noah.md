@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Noah Gaffelt.png" alt=""><figcaption></figcaption></figure>
 
-GAFFELT, Noah（[NT 700年73日](#user-content-fn-1)[^1]，Argon Prime - NT 763年23日，Argon Prime），Goner历史学家、哲学家、Goner长期守护者。
+**GAFFELT, Noah**（[NT 700年73日](#user-content-fn-1)[^1]，Argon Prime - NT 763年23日，Argon Prime），Goner历史学家、哲学家、Goner长期守护者。
 
 ## 生平
 

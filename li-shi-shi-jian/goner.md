@@ -18,7 +18,9 @@ Nyana Gunne此时刚刚进入政坛，并没有受到Sandas和他离经叛道的
 
 > Martinus Sandas，他简直是一个怪物，一个注定昙花一现的狂人。我很确定，明年就不会有人再记得他的名字了。
 
-不过，此后Nyana Gunne逐渐改变了对地球真相基金会的态度。两年后，她甚至与Martinus Sandas坠入爱河。NT 208年7月23日，她与Sandas缔结了为期4年的婚姻协议[^2]。NT 212年，他们没有任何疑问地续约了。二人的婚姻一直持续到[NT 215年](#user-content-fn-3)[^3]，终止的原因是Nyana Gunne在Xenon攻击Antigone空间站时遇难，Xenon发动攻击时她正在空间站上。也正是由于该袭击事件，地球真相基金会得到了大量关注，尤其是在学术界。
+不过，此后Nyana Gunne逐渐改变了对地球真相基金会的态度。两年后，她甚至与Martinus Sandas坠入爱河。NT 208年7月23日，她与Sandas缔结了为期4年的婚姻协议[^2]。NT 212年，他们没有任何疑问地续约了。二人的婚姻一直持续到[NT 215年](#user-content-fn-3)[^3]，终止的原因是Nyana Gunne在Xenon攻击Antigone空间站时遇难，Xenon发动攻击时，她要求Martinus带着研究结果先行离开，自己留下来帮助居民撤离，但是随着攻击的加剧，Nyana未能逃离Antigone空间站。也正是由于该袭击事件，地球真相基金会得到了大量关注，尤其是在学术界。
+
+<figure><img src="../.gitbook/assets/nyana and Martinus.jpg" alt=""><figcaption><p>Antigone空间站上Nyana Gunne与Martinus Sandas的最后相聚（图像来自Sohnen计算设施）</p></figcaption></figure>
 
 ## 《真理之书》
 
@@ -28,7 +30,7 @@ Nyana Gunne此时刚刚进入政坛，并没有受到Sandas和他离经叛道的
 
 NT 211年，《真理之书》开始编纂。这是一本历史档案，内容包括文本、图像、视频和数据。《真理之书》的目的是提供所有关于“旧地球”（也被称为“Terra”）的可信信息，包括地外殖民地与地球分隔的初期这段历史时期。该书引用了大量的第一手证据和历史文献。尽管《真理之书》一开始是一个纯粹的学术项目，但是很快她就被人称为“Goner的‘圣经’”。这个称呼流传过于广远，以至于Goner被人们当成了一个宗教团体，并获得了公众的尊重。随着时间的推移，Goner作为“宗教”的角色也渐渐地被默认了下来。
 
-<figure><img src="../.gitbook/assets/Goner Temple (1).jpg" alt=""><figcaption><p>Goner神庙</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Goner Temple (1).jpg" alt=""><figcaption><p>Goner神庙（摄于NT 764年，于Red Light星区）</p></figcaption></figure>
 
 在接下来的几个世纪中，Goner一直是一个边缘角色。在大多数Argon公民的心中，地球只不过是镜花水月、黄粱一梦。Goner在一个遥远偏僻的宁静星区建立了一所大学，称为“Goner神庙”。Goner们来到神庙之中，继续着平静的史学研究和永无止境的对地球秘密的追寻。
 
