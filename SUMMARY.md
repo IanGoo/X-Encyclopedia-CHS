@@ -78,6 +78,7 @@
 
 ## 重要地点
 
+* [Argon联邦](zhong-yao-di-dian/argon-lian-bang.md)
 * [Hatikvah自由联盟](zhong-yao-di-dian/hatikvah-zi-you-lian-meng.md)
 
 ## 科学与技术
