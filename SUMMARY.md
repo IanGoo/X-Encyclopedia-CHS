@@ -79,6 +79,7 @@
 ## 重要地点
 
 * [Argon联邦](zhong-yao-di-dian/argon-lian-bang.md)
+* [Boron王国](zhong-yao-di-dian/boron-wang-guo.md)
 * [Hatikvah自由联盟](zhong-yao-di-dian/hatikvah-zi-you-lian-meng.md)
 
 ## 科学与技术
