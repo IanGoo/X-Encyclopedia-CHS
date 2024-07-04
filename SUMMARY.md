@@ -80,6 +80,7 @@
 
 * [Argon联邦](zhong-yao-di-dian/argon-lian-bang.md)
 * [Boron王国](zhong-yao-di-dian/boron-wang-guo.md)
+* [Paranid神圣帝国/三位一体圣国](zhong-yao-di-dian/paranid-shen-sheng-di-guo-san-wei-yi-ti-sheng-guo.md)
 * [Hatikvah自由联盟](zhong-yao-di-dian/hatikvah-zi-you-lian-meng.md)
 
 ## 科学与技术
