@@ -83,6 +83,8 @@
 * [Paranid神圣帝国/三位一体圣国](zhong-yao-di-dian/paranid-shen-sheng-di-guo-san-wei-yi-ti-sheng-guo.md)
 * [Solara自由邦](zhong-yao-di-dian/solara-zi-you-bang.md)
 * [Split大酋长国](zhong-yao-di-dian/split-da-qiu-zhang-guo.md)
+* [Teladi公司/Ianamus Zura](zhong-yao-di-dian/teladi-gong-si-ianamus-zura.md)
+* [太阳系](zhong-yao-di-dian/tai-yang-xi.md)
 * [Hatikvah自由联盟](zhong-yao-di-dian/hatikvah-zi-you-lian-meng.md)
 
 ## 科学与技术
