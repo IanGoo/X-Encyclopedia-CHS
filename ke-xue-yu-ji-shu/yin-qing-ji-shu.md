@@ -14,6 +14,8 @@ coverY: 0
 
 低速货船和大多数深空探测器都使用了离子引擎。
 
+<figure><img src="../.gitbook/assets/Ion Engine.jpg" alt=""><figcaption><p>21世纪初地球人类开发的离子推进器（Aerojet Rocketdyne X3）</p></figcaption></figure>
+
 ## 电浆引擎
 
 离子引擎的一种变种[^1]。等离子引擎使用高能等离子体作为工质，这就使得它拥有比离子引擎高出百倍的加速性能[^2]。当然，其能耗也更高，加上其相对较高的故障率，只有在一些特定场合会使用等离子引擎。

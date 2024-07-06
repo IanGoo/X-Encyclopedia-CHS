@@ -92,6 +92,12 @@
 
 * [跳跃门基本原理](ke-xue-yu-ji-shu/tiao-yue-men-ji-ben-yuan-li.md)
 * [引擎技术](ke-xue-yu-ji-shu/yin-qing-ji-shu.md)
+* [重力控制](ke-xue-yu-ji-shu/zhong-li-kong-zhi.md)
+* [惯性补偿](ke-xue-yu-ji-shu/guan-xing-bu-chang.md)
+* [武器技术](ke-xue-yu-ji-shu/wu-qi-ji-shu.md)
+* [护盾技术](ke-xue-yu-ji-shu/hu-dun-ji-shu.md)
+* [分子纳米技术](ke-xue-yu-ji-shu/fen-zi-na-mi-ji-shu.md)
+* [轨道加速器](ke-xue-yu-ji-shu/gui-dao-jia-su-qi.md)
 * [AI与AGI](ke-xue-yu-ji-shu/ai-yu-agi.md)
 
 ## 年表
