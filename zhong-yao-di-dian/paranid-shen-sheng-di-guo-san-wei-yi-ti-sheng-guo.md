@@ -60,6 +60,22 @@ Seventh Eye是Reborn to Life行星系统中的第七颗行星，也是Paranid Pr
 
 ## Sentuie
 
+<figure><img src="../.gitbook/assets/Sentuie.jpg" alt=""><figcaption></figcaption></figure>
 
+| 行星参数    | 数值                           |
+| ------- | ---------------------------- |
+| 自转周期    | 11小时26分49秒                   |
+| 半径      | 10870km                      |
+| 表面重力加速度 | <p>16.7ms^-2</p><p>1.71g</p> |
+| 所在星区    | Paranid Prime                |
+| 所属恒星    | Soul's Well-being            |
+
+CE 2201年，这颗行星被Paranid神圣帝国征服。它又叫Soul's Well-being Ⅴ，这是Paranid在自己的行星系统（Reborn to Life）之外征服的第一颗行星。
+
+Sentuie地表平均气温较为凉爽，为13℃，星球表面较为多样化，有宽阔的海洋，也有高耸的山脉。其亚热带有大片的森林，其中最常见的物种是垂枝树[^2]，垂枝树的木材拥有超高的强度，在CoP市场上有很高的价值。
+
+这颗行星上同样建有一座巨大的教堂，教堂开凿在一个大型山脉的岩层中，数百万Paranid的茧被安放在其中。
 
 [^1]: 原文为“Trice-Born Priest”。成年Paranid拥有随时结茧休眠的能力，从休眠中苏醒被认为是“重生”。
+
+[^2]: 原文“Weeping Tree”。Weeping有形容树木枝条下垂的意思。
