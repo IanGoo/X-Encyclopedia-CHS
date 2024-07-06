@@ -42,6 +42,24 @@ Paranid Prime的地表平均气温高达61℃，是整个CoP中最炎热、最�
 
 ## Seventh Eye
 
+<figure><img src="../.gitbook/assets/Seventh Eye.jpg" alt=""><figcaption></figcaption></figure>
+
+| 行星参数    | 数值                           |
+| ------- | ---------------------------- |
+| 自转周期    | 23小时4分2秒                     |
+| 半径      | 6330km                       |
+| 表面重力加速度 | <p>9.73ms^-2</p><p>0.99g</p> |
+| 所在星区    | Paranid Prime                |
+| 所属恒星    | Reborn to Life               |
+
+Seventh Eye是Reborn to Life行星系统中的第七颗行星，也是Paranid Prime夜空中最明亮的天体。这颗贫瘠的岩石行星既没有磁场也没有大气层，完全暴露在恒星的辐射风当中。
+
+针对Seventh Eye的“征服行动”发生在Paranid神圣帝国的第一个繁荣期间。Paranid在此期间开始发展航天技术，史称“重返天空”。
+
+今天，这颗行星的巨大钢制模型就是对这个时代的纪念。这个模型悬挂在教皇圣座的正上方。传说，如果这个模型掉下来砸死教皇，Paranid神圣帝国也会随之覆灭。
+
+## Sentuie
+
 
 
 [^1]: 原文为“Trice-Born Priest”。成年Paranid拥有随时结茧休眠的能力，从休眠中苏醒被认为是“重生”。
