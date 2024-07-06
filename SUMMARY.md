@@ -86,9 +86,12 @@
 * [Teladi公司/Ianamus Zura](zhong-yao-di-dian/teladi-gong-si-ianamus-zura.md)
 * [太阳系](zhong-yao-di-dian/tai-yang-xi.md)
 * [Hatikvah自由联盟](zhong-yao-di-dian/hatikvah-zi-you-lian-meng.md)
+* [Herde公约](zhong-yao-di-dian/herde-gong-yue.md)
 
 ## 科学与技术
 
+* [跳跃门基本原理](ke-xue-yu-ji-shu/tiao-yue-men-ji-ben-yuan-li.md)
+* [引擎技术](ke-xue-yu-ji-shu/yin-qing-ji-shu.md)
 * [AI与AGI](ke-xue-yu-ji-shu/ai-yu-agi.md)
 
 ## 年表
