@@ -16,14 +16,16 @@ coverY: 0
 
 <summary>M5</summary>
 
-<img src="../.gitbook/assets/ss_sh_a_m5.gif" alt="" data-size="original">
+<img src="../.gitbook/assets/Discoverer.jpg" alt="" data-size="original">
 
 M5侦察机：一种快速、灵活的飞船，带有脆弱的护盾和装甲防护。
 
 主要型号[^1]：
 
 * AP Discoverer
+* AP Starburst
 * BORON Octopus
+* BORON Arrow
 * PP Pegasus
 * SPLIT Wolf
 * SPLIT Jaguar
@@ -33,6 +35,27 @@ M5侦察机：一种快速、灵活的飞船，带有脆弱的护盾和装甲防
 * USC Rapier
 * ATF Valkyrie
 * Xenon N
+* Kha'ak Scout
+* Yaki Fujin
+
+</details>
+
+<details>
+
+<summary>M4</summary>
+
+<img src="../.gitbook/assets/ss_sh_b_m4.gif" alt="" data-size="original">
+
+M4轻型战斗机：一种快速飞船，火力中等。
+
+主要型号：
+
+* AP Buster
+* BORON Pinanha
+* BORON Mako
+* PP Poseidon
+* PP Pericles
+*
 
 </details>
 
