@@ -99,6 +99,14 @@
 * [分子纳米技术](ke-xue-yu-ji-shu/fen-zi-na-mi-ji-shu.md)
 * [轨道加速器](ke-xue-yu-ji-shu/gui-dao-jia-su-qi.md)
 * [AI与AGI](ke-xue-yu-ji-shu/ai-yu-agi.md)
+* [人类生物学和医学](ke-xue-yu-ji-shu/ren-lei-sheng-wu-xue-he-yi-xue.md)
+* [技术外交](ke-xue-yu-ji-shu/ji-shu-wai-jiao.md)
+
+## 航天器
+
+* [总览](hang-tian-qi/zong-lan.md)
+* [航天宇航技术](hang-tian-qi/hang-tian-yu-hang-ji-shu.md)
+* [航天器类型](hang-tian-qi/hang-tian-qi-lei-xing.md)
 
 ## 年表
 
