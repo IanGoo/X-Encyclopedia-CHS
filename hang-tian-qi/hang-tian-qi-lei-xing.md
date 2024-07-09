@@ -44,7 +44,7 @@ M5侦察机：一种快速、灵活的飞船，带有脆弱的护盾和装甲防
 
 <summary>M4</summary>
 
-<img src="../.gitbook/assets/ss_sh_b_m4.gif" alt="" data-size="original">
+<img src="../.gitbook/assets/buster-angreifer.jpg" alt="" data-size="original">
 
 M4轻型战斗机：一种快速飞船，火力中等。
 
@@ -55,8 +55,82 @@ M4轻型战斗机：一种快速飞船，火力中等。
 * BORON Mako
 * PP Poseidon
 * PP Pericles
-*
+* SPLIT Scorpion
+* TELADI Hawk
+* TELADI Buzzard
+* USC Sabre
+* ATF Mijollnir
+* Xenon M
+* OTAS Eurus
+* Kha'ak Interceptor
 
 </details>
 
-[^1]: 本部分中的飞船名称与X3中相去甚大，但是译者无法确定是否是X2及其之前的名称，所以原样保留的基础上增补了X3中的名称，另外ATF的飞船没有收录，本节特作补充。
+<details>
+
+<summary>M4+</summary>
+
+<img src="../.gitbook/assets/Elite.jpg" alt="" data-size="original">
+
+M4+是M4战斗机的强化版本。
+
+主要型号：
+
+* AP Elite
+* BORON Pike
+* TELADI Kite
+* PP Theseus
+* SPLIT Asp
+* OTAS Solano
+
+</details>
+
+<details>
+
+<summary>M3</summary>
+
+<img src="../.gitbook/assets/Thor.jpg" alt="" data-size="original">
+
+重型战斗机，速度较之M4、M5更慢，但是换来了更大的火力和更高的防护等级。
+
+主要型号：
+
+* AP Nova
+* BORON Eel
+* BORON Barracuda
+* PP Prometheus
+* PP Perseus
+* SPLIT Mamba
+* TELADI Falcon
+* USC Scimitar
+* ATF Thor
+* Xenon L
+* OTAS Venti
+* Kha'ak Fighter
+
+</details>
+
+<details>
+
+<summary>M3+</summary>
+
+<img src="../.gitbook/assets/Machete.jpg" alt="" data-size="original">
+
+火力与防护较之普通M3重型战斗机更胜一筹的机种。
+
+主要型号：
+
+* AP Eclipse
+* BORON Mobula
+* BORON Skate
+* PP Medusa
+* SPLIT Chimera
+* Teladi Kea
+* USC Machete
+* USC&#x20;
+* ATF Fenrir
+* Xenon LX
+
+</details>
+
+[^1]: 本部分中的飞船闵晨
